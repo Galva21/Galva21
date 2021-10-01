@@ -1,4 +1,4 @@
-### I am a frontend developer, I work with [Flutter](https://flutter.dev/). I can use and work with [Flutter](https://flutter.dev/) to create great applications. Also, I am learning [React Native](https://reactnative.dev/) and [NodeJS](https://expressjs.com/). 👋
+### I am a frontend developer, I work with [Flutter](https://flutter.dev/). I can use and work with [Flutter](https://flutter.dev/) to create great and beautiful applications. Also, I am learning [React Native](https://reactnative.dev/) and [NodeJS](https://expressjs.com/). 👋
 
 - 🔭 I’m currently working on projects at the university
 - 💬 Ask me about programming, games development, IOT, AI, AR, VR
