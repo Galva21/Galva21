@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on projects at the university
 - 💬 Ask me about programming, games development, IOT, AI, AR, VR
 - 😄 Pronouns: Galva
-- ⚡ Fun fact: Soccer and Athletics
+- ⚡ Hobby: Soccer and Athletics
 
 <pre>
 ----------------------------------------
