@@ -1,8 +1,8 @@
-<h1 align="center">Hey there, I'm Alvaro Gonzales <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">Hi, I'm Alvaro Gonzales <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
 - 🎓 Student computer systems engineer.
 
-### I am a frontend developer, I work with [Flutter](https://flutter.dev/). I can use and work with [Flutter](https://flutter.dev/) to create great and beautiful applications. Also, I am learning [React Native](https://reactnative.dev/) and [NodeJS](https://expressjs.com/). 👋
+### I am a frontend developer, I work with [Flutter](https://flutter.dev/). I can use and work with [Flutter](https://flutter.dev/) to create great and beautiful applications. Also, I am learning [React Native](https://reactnative.dev/) and [NodeJS](https://expressjs.com/).
 
 - 🔭 I’m currently working on projects at the university
 - 💬 Ask me about programming, games development, IOT, AI, AR, VR
