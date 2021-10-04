@@ -4,7 +4,7 @@
 
 ##
 
-- 🎓 Student computer systems engineer.
+- 🎓 Student computer systems engineering.
 - 🔭 I’m currently working on projects at the university
 - 💬 Ask me about programming, games development, IOT, AI, AR, VR
 - ⚡ Hobby: Soccer and Athletic
