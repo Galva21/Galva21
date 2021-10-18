@@ -7,7 +7,7 @@
 - 🎓 Student computer systems engineering.
 - 🔭 I’m currently working on projects at the university
 - 💬 Ask me about programming, IOT, AI, AR, VR
-- ⚡ Hobby: Soccer and Athletic
+- ⚡ Hobby: Soccer and Athletic.
 
 <pre>
 
