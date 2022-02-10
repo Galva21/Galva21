@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alvaro <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-###I am a frontend developer, I work with [Flutter](https://flutter.dev/). I can use and work with [Flutter](https://flutter.dev/) to create great and beautiful applications. Also, I am learning [NodeJS](https://expressjs.com/).
+### I'm a frontend developer, I work with [Flutter](https://flutter.dev/). I can use and work with [Flutter](https://flutter.dev/) to create great and beautiful applications. Also, I am learning [NodeJS](https://expressjs.com/).
 
 ##
 
